@@ -28,6 +28,8 @@ public class PingU extends Robot
 			turnGunRight(360);
 			back(100);
 			turnGunLeft(360);
+			turnGunRight(32);
+			//git update test
 		}
 	}
  
